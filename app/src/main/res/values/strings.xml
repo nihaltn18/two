@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">two</string>
+    <string name="tv">RATE THIS LESSON</string>
+    <string name="rone">EXCELLENT</string>
+    <string name="rtwo">GOOD</string>
+    <string name="rthree">OKAY</string>
+    <string name="rfour">POOR</string>
+    <string name="submit">SUBMIT</string>
+    <string name="cone">i really enjoy this lesson</string>
+    <string name="ctwo">i will prefer the lesson to else also</string>
+    <string name="cthree">i would like to hear more from you</string>
+    <string name="cfour">i am satisified with the content and full description</string>
+</resources>
